@@ -1,0 +1,1 @@
+print("Oleksandr Durdynets, AI-2024")
